@@ -1,6 +1,6 @@
 # node_tuit
 
-it a nodeJs tuitorial
+it a nodeJs tuitorial by code addict
 
 ## Getting started
 
